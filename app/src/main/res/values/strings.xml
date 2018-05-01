@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScoreKeeperabnd</string>
+    <string name="td_button_text">TD</string>
+    <string name="fg_button_text">FG</string>
+    <string name="sfty_button_text">SFTY</string>
+    <string name="xpt_button_text">XPT</string>
+    <string name="reset_text">Reset</string>
+    <string name="title_text">Score Keeper App</string>
+    <string name="double_dash">--</string>
+</resources>

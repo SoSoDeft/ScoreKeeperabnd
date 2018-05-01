@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_padding">32dp</dimen>
+    <dimen name="standard_padding">16dp</dimen>
+    <dimen name="half_standard_margin">8dp</dimen>
+    <dimen name="section_padding">64dp</dimen>
+    <dimen name="reset_text_size">16sp</dimen>
+    <dimen name="title_text_size">24sp</dimen>
+</resources>
