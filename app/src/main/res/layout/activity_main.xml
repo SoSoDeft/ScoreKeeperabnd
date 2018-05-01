@@ -47,7 +47,8 @@
             android:gravity="center_horizontal"
             android:padding="@dimen/standard_padding"
             android:textColor="@android:color/white"
-            android:textSize="85sp"
+            android:fontFamily="sans-serif-thin"
+            android:textSize="@dimen/scoreboard_text_size"
             tools:text="10" />
 
         <TextView
@@ -59,7 +60,8 @@
             android:gravity="center_horizontal"
             android:padding="@dimen/standard_padding"
             android:textColor="@color/colorPrimary"
-            android:textSize="85sp"
+            android:fontFamily="sans-serif-thin"
+            android:textSize="@dimen/scoreboard_text_size"
             tools:text="35" />
     </LinearLayout>
     <!-- Button Group -->
